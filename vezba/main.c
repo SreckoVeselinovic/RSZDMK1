@@ -1,9 +1,10 @@
-/*
- * main.c
- *
- *  Created on: May 6, 2021
- *      Author: Korisnik
+/**
+ * @file	main.c
+ * @brief	Funkcije za upravljanje serijskim portom
+ * @author	Milan Lukic
+ * @date	14-04-2019
  */
+
 
 #include "../usart/usart.h"
 #include <stdio.h>
